@@ -1,0 +1,66 @@
+{
+  "allVideos": [
+    {
+      "caption": "angular",
+      "imgUrl": "https://s3.amazonaws.com/angularminds.com/new-blog-images/top-10-features-of-angular-12.jpg",
+      "link": "https://www.youtube.com/embed/k5E2AVpwsko?si=EcY87JzTB5-cFjAH",
+      "id": 2
+    },
+    {
+      "caption": "pirlo",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnvXoaaatlWGBYX1yQwF68U_IHRmA0xm_Ew&s",
+      "link": "https://www.youtube.com/embed/TiCyeMsb_Mg?si=u_ST_QxroqSiL6Zd",
+      "id": 4
+    },
+    {
+      "caption": "Cristiano",
+      "imgUrl": "https://assets.goal.com/images/v3/blt2aaca933046f8b00/Cristiano%20Ronaldo%20Portugal%202024%20(4).jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "link": "https://www.youtube.com/embed/WPEXDe8_EWY?si=Z23P8UJX24Fm-KNZ",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "react",
+      "allVideos": [],
+      "id": 7
+    },
+    {
+      "categoryName": "Football",
+      "allVideos": [],
+      "id": 8
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "pirlo",
+      "link": "https://www.youtube.com/embed/TiCyeMsb_Mg?si=u_ST_QxroqSiL6Zd",
+      "timestamp": "11/08/24, 10:06:53 PM",
+      "id": 1
+    },
+    {
+      "caption": "Cristiano",
+      "link": "https://www.youtube.com/embed/WPEXDe8_EWY?si=Z23P8UJX24Fm-KNZ",
+      "timestamp": "11/09/24, 02:32:30 PM",
+      "id": 2
+    },
+    {
+      "caption": "angular",
+      "link": "https://www.youtube.com/embed/k5E2AVpwsko?si=EcY87JzTB5-cFjAH",
+      "timestamp": "11/09/24, 02:35:49 PM",
+      "id": 3
+    },
+    {
+      "caption": "angular",
+      "link": "https://www.youtube.com/embed/k5E2AVpwsko?si=EcY87JzTB5-cFjAH",
+      "timestamp": "11/09/24, 05:23:21 PM",
+      "id": 4
+    },
+    {
+      "caption": "pirlo",
+      "link": "https://www.youtube.com/embed/TiCyeMsb_Mg?si=u_ST_QxroqSiL6Zd",
+      "timestamp": "11/09/24, 09:53:11 PM",
+      "id": 5
+    }
+  ]
+}
